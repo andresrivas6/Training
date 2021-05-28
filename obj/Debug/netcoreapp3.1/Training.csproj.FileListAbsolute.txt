@@ -1,0 +1,13 @@
+C:\Users\rodol\source\repos\Training\Training\bin\Debug\netcoreapp3.1\Training.exe
+C:\Users\rodol\source\repos\Training\Training\bin\Debug\netcoreapp3.1\Training.deps.json
+C:\Users\rodol\source\repos\Training\Training\bin\Debug\netcoreapp3.1\Training.runtimeconfig.json
+C:\Users\rodol\source\repos\Training\Training\bin\Debug\netcoreapp3.1\Training.runtimeconfig.dev.json
+C:\Users\rodol\source\repos\Training\Training\bin\Debug\netcoreapp3.1\Training.dll
+C:\Users\rodol\source\repos\Training\Training\bin\Debug\netcoreapp3.1\Training.pdb
+C:\Users\rodol\source\repos\Training\Training\obj\Debug\netcoreapp3.1\Training.csprojAssemblyReference.cache
+C:\Users\rodol\source\repos\Training\Training\obj\Debug\netcoreapp3.1\Training.AssemblyInfoInputs.cache
+C:\Users\rodol\source\repos\Training\Training\obj\Debug\netcoreapp3.1\Training.AssemblyInfo.cs
+C:\Users\rodol\source\repos\Training\Training\obj\Debug\netcoreapp3.1\Training.csproj.CoreCompileInputs.cache
+C:\Users\rodol\source\repos\Training\Training\obj\Debug\netcoreapp3.1\Training.dll
+C:\Users\rodol\source\repos\Training\Training\obj\Debug\netcoreapp3.1\Training.pdb
+C:\Users\rodol\source\repos\Training\Training\obj\Debug\netcoreapp3.1\Training.genruntimeconfig.cache
